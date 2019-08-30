@@ -6,6 +6,6 @@ variable "api_path" {
   type = "string"
 }
 
-variable "slug" {
+variable "name" {
   type = "string"
 }
